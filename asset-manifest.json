@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.8af1991f.css",
-    "main.js": "/static/js/main.afd99415.js",
-    "static/js/787.89eaf1e5.chunk.js": "/static/js/787.89eaf1e5.chunk.js",
-    "static/media/rol.png": "/static/media/rol.21e3f99baf7835b31953.png",
-    "index.html": "/index.html",
-    "main.8af1991f.css.map": "/static/css/main.8af1991f.css.map",
-    "main.afd99415.js.map": "/static/js/main.afd99415.js.map",
-    "787.89eaf1e5.chunk.js.map": "/static/js/787.89eaf1e5.chunk.js.map"
+    "main.css": "/Scheduler/static/css/main.9f58d480.css",
+    "main.js": "/Scheduler/static/js/main.9eecc309.js",
+    "static/js/787.89eaf1e5.chunk.js": "/Scheduler/static/js/787.89eaf1e5.chunk.js",
+    "static/media/rol.png": "/Scheduler/static/media/rol.21e3f99baf7835b31953.png",
+    "index.html": "/Scheduler/index.html",
+    "main.9f58d480.css.map": "/Scheduler/static/css/main.9f58d480.css.map",
+    "main.9eecc309.js.map": "/Scheduler/static/js/main.9eecc309.js.map",
+    "787.89eaf1e5.chunk.js.map": "/Scheduler/static/js/787.89eaf1e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8af1991f.css",
-    "static/js/main.afd99415.js"
+    "static/css/main.9f58d480.css",
+    "static/js/main.9eecc309.js"
   ]
 }
